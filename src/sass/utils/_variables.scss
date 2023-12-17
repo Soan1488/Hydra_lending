@@ -1,5 +1,10 @@
 :root {
   --primary-bg-color: #302c42;
+  --secondary-bg-color: radial-gradient(
+    2900.76% 50.13% at 50% 53.89%,
+    rgba(58, 52, 86, 0.95) 0%,
+    #211e2e 100%
+  );
   --primary-text-color: #fff;
   --secondary-text-color: linear-gradient(
     269deg,

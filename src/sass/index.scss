@@ -1,5 +1,8 @@
 @import './common';
-@import './base/base';
-@import './base/container';
-@import './utils/variables';
-@import './layouts/hero.scss';
+@import './base/_base';
+@import './base/_section';
+@import './base/_container';
+@import './utils/_variables';
+@import './layouts/_hero.scss';
+@import './layouts/_burger-menu';
+@import './layouts/_introduction.scss';
